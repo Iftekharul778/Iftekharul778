@@ -13,7 +13,11 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
-      
+
+      # ফোল্ডার না থাকলে তৈরি করে নেয়ার কমান্ড
+      - name: Create profile directory
+        run: mkdir -p profile
+
       - uses: ryo-ma/github-profile-trophy@master
         with:
           username: Iftekharul778
