@@ -6,6 +6,7 @@
   <img src="./profile/CoverPhoto.jpeg" alt="Profile Cover Photo" width="100%" />
 </p>
 
+# 
 
 💻 Currently learning Full-Stack Web Development<br>🤖 Aspiring AI/ML Engineer<br>🔬 Interested in AI/ML Research<br>🌱 Continuously learning and improving my programming skills<br>🧠 Interested in solving real-world problems using technology<br>🚀 Building projects to strengthen my practical experience
 
@@ -19,7 +20,7 @@
 ![](https://github-readme-stats.shion.dev/api?username=Iftekharul778&theme=one_dark_pro&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://streak-stats.demolab.com/?user=Iftekharul778&theme=one_dark_pro&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=Iftekharul778&theme=one_dark_pro&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
-
+# 
 # 🐍 My GitHub Contribution
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Iftekharul778/Iftekharul778/output/github-contribution-grid-snake-dark.svg">
