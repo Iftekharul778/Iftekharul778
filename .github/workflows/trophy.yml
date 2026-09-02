@@ -22,14 +22,14 @@ jobs:
           username: Iftekharul778
           output_path: profile/trophy.svg
           token: ${{ secrets.GITHUB_TOKEN }}
-          theme: fire        # ফায়ার বা জ্বলন্ত থিম ব্যবহার করা হয়েছে
-          no-frame: true      # ট্রফিগুলোর চারপাশের বর্ডার সরিয়ে দেবে
-          column: 4           # প্রতি লাইনে ৪টি করে সাজাবে
+          theme: radical      # ফায়ার ও নিয়ন লুকের জন্য সঠিক থিম
+          no-frame: true      # সাদা বক্স ও বর্ডার সরিয়ে দেবে
+          column: 4           # ২ সারিতে ৪টি করে সুন্দরভাবে সাজাবে
 
       - name: Commit & Push
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
           git add .
-          git commit -m "Update trophies to fire theme" || exit 0
+          git commit -m "Fix trophy theme to radical" || exit 0
           git push
