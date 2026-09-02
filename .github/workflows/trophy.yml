@@ -9,11 +9,11 @@ jobs:
   build:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v3
+      - uses: actions/checkout@v4
       - uses: ryo-ma/github-profile-trophy@master
         with:
-          github_user_name: Iftekharul778
-          output_folder: profile
+          username: Iftekharul778
+          output_path: profile
       - name: Commit & Push
         run: |
           git config user.name "github-actions[bot]"
