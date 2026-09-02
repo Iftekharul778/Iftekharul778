@@ -1,6 +1,12 @@
 <h1 align="center">Hi 👋, I'm Iftekharul Islam</h1>
 <h3 align="center">A passionate learner, always exploring something new 🚀</h3>
 
+# 
+<p align="center">
+  <img src="./profile/CoverPhoto.jpeg" alt="Profile Cover Photo" width="100%" />
+</p>
+
+
 💻 Currently learning Full-Stack Web Development<br>🤖 Aspiring AI/ML Engineer<br>🔬 Interested in AI/ML Research<br>🌱 Continuously learning and improving my programming skills<br>🧠 Interested in solving real-world problems using technology<br>🚀 Building projects to strengthen my practical experience
 
 
