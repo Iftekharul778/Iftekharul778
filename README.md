@@ -27,7 +27,7 @@
 - 🥽 **ICT Division & Bangladesh Hi-Tech Park Authority (BDSET Project)** — Professional Training on AI for Immersive Technology *(6 Months / 288 Hours — Python, AI/ML/DL, XR/AR/VR)*
 - 🤖 **Google Cloud** — Generative AI
 - 🛠️ **Microsoft** — Prompt Engineering with GitHub Copilot
-- 📊 **Rajshahi University HSC** — Applied Data Analysis with SPSS
+- 📊 **RUHSC** — Applied Data Analysis with SPSS
 
 <br/>
 
