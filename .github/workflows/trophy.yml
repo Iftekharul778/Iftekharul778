@@ -22,7 +22,7 @@ jobs:
           username: Iftekharul778
           output_path: profile/trophy.svg
           token: ${{ secrets.GITHUB_TOKEN }}
-          theme: radical      # ফায়ার ও নিয়ন লুকের জন্য সঠিক থিম
+          theme: onedark      # ফায়ার ও নিয়ন লুকের জন্য সঠিক থিম
           no-frame: true      # সাদা বক্স ও বর্ডার সরিয়ে দেবে
           column: 4           # ২ সারিতে ৪টি করে সুন্দরভাবে সাজাবে
 
