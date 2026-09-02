@@ -15,10 +15,7 @@
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=Iftekharul778&theme=one_dark_pro&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
 ## 🏆 GitHub Trophies
-
 <p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=Iftekharul778&theme=onedark" alt="Iftekharul778" />
-  </a>
+  <img src="./profile/trophy.svg" alt="GitHub Trophies" />
 </p>
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
