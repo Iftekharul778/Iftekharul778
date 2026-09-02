@@ -1,20 +1,40 @@
 <h1 align="center">Hi 👋, I'm Iftekharul Islam</h1>
-<h3 align="center">A passionate learner, always exploring something new 🚀</h3>
+<h3 align="center">Full-Stack Developer | Aspiring AI/ML Engineer | AI/ML Research Enthusiast 🚀</h3>
 
-# 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Iftekharul778&color=blueviolet&style=flat-square" alt="Profile Views" />
+</p>
+
+<br/>
+
 <p align="center">
   <img src="./profile/CoverPhoto.jpeg" alt="Profile Cover Photo" width="100%" />
 </p>
 
-# 
+<br/>
 
-💻 Currently learning Full-Stack Web Development<br>🤖 Aspiring AI/ML Engineer<br>🔬 Interested in AI/ML Research<br>🌱 Continuously learning and improving my programming skills<br>🧠 Interested in solving real-world problems using technology<br>🚀 Building projects to strengthen my practical experience
+### 👨‍💻 About Me
+- 💻 Currently learning **Full-Stack Web Development**
+- 🤖 Aspiring **AI/ML Engineer**
+- 🔬 Passionate about **AI/ML Research & Neural Networks**
+- 🌱 Continuously learning and improving software engineering practices
+- 🧠 Interested in solving real-world problems using data-driven tech
+- 🚀 Building scalable web apps integrated with intelligent algorithms
 
+<br/>
 
-## 🌐 Socials:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/iftekharul778) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_ifte_kharul_islam_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/md-iftekharul-islam-6687bb305) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:iftekharulislam778@gmail.com) 
+## 🌐 Connect with me
+<p align="left">
+  <a href="https://linkedin.com/in/md-iftekharul-islam-6687bb305" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:iftekharulislam778@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://discord.gg/iftekharul778" target="_blank"><img src="https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white" /></a>
+  <a href="https://instagram.com/_ifte_kharul_islam_" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" /></a>
+</p>
 
-#** 💻 _Tech Stack:_**
+<br/>
+
+# 💻 Tech Stack
+
 ### 🛠️ Programming Languages
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
@@ -45,20 +65,41 @@
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=Iftekharul778&theme=one_dark_pro&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=Iftekharul778&theme=one_dark_pro&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=Iftekharul778&theme=one_dark_pro&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
-# 
-# 🐍 My GitHub Contribution
+
+<br/>
+
+<!-- 🚀 Optional Featured Projects Section (ভবিষ্যতে আপনার প্রজেক্টের লিংক বসিয়ে নিতে পারেন) -->
+<!-- 
+# 📌 Featured Projects
+| Project Name | Description | Tech Stack |
+| :--- | :--- | :--- |
+| **[Project-1](#)** | Short description of full-stack or AI project. | `React` `Node.js` `FastAPI` |
+| **[Project-2](#)** | Supervised ML model implementation for predictive analysis. | `Python` `Scikit-learn` `SHAP` |
+-->
+
+# 📊 GitHub Analytics
+
+<p align="center">
+  <img src="https://github-readme-stats.shion.dev/api?username=Iftekharul778&theme=one_dark_pro&show_icons=true&hide_border=false&count_private=true" height="170" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=Iftekharul778&theme=one_dark_pro&hide_border=false&layout=compact" height="170" alt="Top Languages" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=Iftekharul778&theme=one_dark_pro&hide_border=false" alt="Streak Stats" />
+</p>
+
+<br/>
+
+# 🐍 Contribution Graph
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Iftekharul778/Iftekharul778/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Iftekharul778/Iftekharul778/output/github-contribution-grid-snake.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Iftekharul778/Iftekharul778/output/github-contribution-grid-snake.svg">
 </picture>
 
+<br/>
+
 ## 🏆 GitHub Trophies
 <p align="center">
   <img src="./profile/trophy.svg" alt="GitHub Trophies" />
 </p>
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
