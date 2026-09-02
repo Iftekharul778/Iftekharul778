@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Iftekharul Islam</h1>
-<h3 align="center">Full-Stack Developer | Aspiring AI/ML Engineer | AI/ML Research Enthusiast </h3>
+<h3 align="center">Learning Full-Stack Developer | Aspiring AI/ML Engineer | AI/ML Research Enthusiast </h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Iftekharul778&color=blueviolet&style=flat-square" alt="Profile Views" />
