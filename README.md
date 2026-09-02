@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Iftekharul Islam</h1>
-<h3 align="center">Full-Stack Developer | Aspiring AI/ML Engineer | AI/ML Research Enthusiast 🚀</h3>
+<h3 align="center">Full-Stack Developer | Aspiring AI/ML Engineer | AI/ML Research Enthusiast </h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Iftekharul778&color=blueviolet&style=flat-square" alt="Profile Views" />
@@ -13,13 +13,21 @@
 
 <br/>
 
-### 👨‍💻 About Me
+## 👨‍💻 About Me
 - 💻 Currently learning **Full-Stack Web Development**
 - 🤖 Aspiring **AI/ML Engineer**
-- 🔬 Passionate about **AI/ML Research & Neural Networks**
+- 🔬 Passionate about **AI/ML Research, Deep Learning & Immersive Tech**
 - 🌱 Continuously learning and improving software engineering practices
 - 🧠 Interested in solving real-world problems using data-driven tech
 - 🚀 Building scalable web apps integrated with intelligent algorithms
+
+<br/>
+
+## 📜 Certifications & Training
+- 🥽 **ICT Division & Bangladesh Hi-Tech Park Authority (BDSET Project)** — Professional Training on AI for Immersive Technology *(6 Months / 288 Hours — Python, AI/ML/DL, XR/AR/VR)*
+- 🤖 **Google Cloud** — Generative AI
+- 🛠️ **Microsoft** — Prompt Engineering with GitHub Copilot
+- 📊 **Rajshahi University HSC** — Applied Data Analysis with SPSS
 
 <br/>
 
@@ -68,14 +76,12 @@
 
 <br/>
 
-<!-- 🚀 Optional Featured Projects Section (ভবিষ্যতে আপনার প্রজেক্টের লিংক বসিয়ে নিতে পারেন) -->
-<!-- 
-# 📌 Featured Projects
-| Project Name | Description | Tech Stack |
-| :--- | :--- | :--- |
-| **[Project-1](#)** | Short description of full-stack or AI project. | `React` `Node.js` `FastAPI` |
-| **[Project-2](#)** | Supervised ML model implementation for predictive analysis. | `Python` `Scikit-learn` `SHAP` |
--->
+### 🎯 Current Goals & Roadmap
+- [x] Building Responsive Full-Stack Web Applications
+- [ ] Advanced Neural Networks & Deep Learning Implementation
+- [ ] Authoring & Publishing an AI/ML Research Paper
+
+<br/>
 
 # 📊 GitHub Analytics
 
@@ -102,4 +108,12 @@
 ## 🏆 GitHub Trophies
 <p align="center">
   <img src="./profile/trophy.svg" alt="GitHub Trophies" />
+</p>
+
+<br/>
+
+---
+<p align="center">
+   <i>"Life is what happens when you're busy making other plans."</i><br/>
+  — <b>John Lennon</b>
 </p>
