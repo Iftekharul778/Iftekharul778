@@ -14,7 +14,7 @@
 ![](https://streak-stats.demolab.com/?user=Iftekharul778&theme=one_dark_pro&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=Iftekharul778&theme=one_dark_pro&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
-# Snake Animation
+# 🐍 My GitHub Contribution
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Iftekharul778/Iftekharul778/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Iftekharul778/Iftekharul778/output/github-contribution-grid-snake.svg">
