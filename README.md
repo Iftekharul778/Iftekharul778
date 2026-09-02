@@ -76,7 +76,7 @@
 
 <br/>
 
-## 🎯 Current Goals & Roadmap
+# 🎯 Current Goals & Roadmap
 - [x] Building Responsive Full-Stack Web Applications
 - [ ] Advanced Neural Networks & Deep Learning Implementation
 - [ ] Authoring & Publishing an AI/ML Research Paper
