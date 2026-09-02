@@ -14,7 +14,6 @@ jobs:
     steps:
       - uses: actions/checkout@v4
 
-      # ফোল্ডার না থাকলে তৈরি করে নেয়ার কমান্ড
       - name: Create profile directory
         run: mkdir -p profile
 
@@ -22,6 +21,7 @@ jobs:
         with:
           username: Iftekharul778
           output_path: profile/trophy.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Commit & Push
         run: |
